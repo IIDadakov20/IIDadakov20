@@ -2,6 +2,8 @@
 
 I am a student in [@codingburgas](https://codingburgas.bg)🎓, who is currently studying C++, HTML5 and CSS3 💡. I love exploring new technologies 👨🏻‍💻. Currently into Web Development.
 
+<hr>
+
 <img align="right" height="250" width="400" alt="" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
 
 ### Talking about Personal Stuffs:
@@ -9,12 +11,16 @@ I am a student in [@codingburgas](https://codingburgas.bg)🎓, who is currently
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/IIDadakov20?tab=repositories).
 - 📫 &nbsp; How to reach me: iidadakov20@codingburgas.bg.
 
+<hr>
+
 ### Languages and Tools:
 
 <code><img alt="CPP" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
 <code><img alt="Visual Studio Code" width="25px" src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg"></code>
 <code><img alt="HTML5" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7HwVz9h18DrB8OeLJ1oUyWw6JPIBqfxDUEiFi_804PEIQxzvfuW5p0eQ3inRMifes4s&usqp=CAU" ></code>
 <code><img alt="CSS3" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYlEA6Vsz0fqBzwPvPnhncrBwAXizgKMXqSNQmLLctUOtagnhT9U2b9zWAAvFBo4jfAYA&usqp=CAU" ></code>
+
+<hr>
 
 ### Projects and Dev Stuffs:
 
@@ -47,6 +53,6 @@ I am a student in [@codingburgas](https://codingburgas.bg)🎓, who is currently
   
 <div align="center">
 
-## The one who searches finds
+# The one who searches finds
 
 </div>
