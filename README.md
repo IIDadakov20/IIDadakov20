@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Ivan Dadakov](https://github.com/IIDadakov20/)
 
-I am a student in [@codingburgas](https://codingburgas.bg)🎓, who is currently studying C++, HTML5 and CSS3 💡. I love exploring new technologies 👨🏻‍💻. Currently into Web Development.
+I am a student in [@codingburgas](https://codingburgas.bg)🎓, who is currently studying C++, HTML5 and CSS3 💡. I love technologies 👨🏻‍💻.
 
 <hr>
 
