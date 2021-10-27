@@ -1,4 +1,4 @@
-# Hi my name is Ivan Dadakov 👋
+# Hi, my name is [Ivan Dadakov](https://github.com/IIDadakov20/)👋
 
 <hr>
 
