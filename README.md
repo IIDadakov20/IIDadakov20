@@ -13,12 +13,18 @@ I am a student in [@codingburgas](https://codingburgas.bg)🎓, who is currently
 
 <hr>
 
+### My interests:
+- 🏐 Volleyball
+- 💻 Testing new things in C++, HTML5 and CSS3
+
+<hr>
+
 ### Languages and Tools:
 
-<code><img alt="CPP" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
-<code><img alt="Visual Studio Code" width="25px" src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg"></code>
-<code><img alt="HTML5" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7HwVz9h18DrB8OeLJ1oUyWw6JPIBqfxDUEiFi_804PEIQxzvfuW5p0eQ3inRMifes4s&usqp=CAU" ></code>
-<code><img alt="CSS3" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYlEA6Vsz0fqBzwPvPnhncrBwAXizgKMXqSNQmLLctUOtagnhT9U2b9zWAAvFBo4jfAYA&usqp=CAU" ></code>
+<code><img alt="CPP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
+<code><img alt="Visual Studio Code" width="30px" src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg"></code>
+<code><img alt="HTML5" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7HwVz9h18DrB8OeLJ1oUyWw6JPIBqfxDUEiFi_804PEIQxzvfuW5p0eQ3inRMifes4s&usqp=CAU" ></code>
+<code><img alt="CSS3" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYlEA6Vsz0fqBzwPvPnhncrBwAXizgKMXqSNQmLLctUOtagnhT9U2b9zWAAvFBo4jfAYA&usqp=CAU" ></code>
 
 <hr>
 
@@ -45,8 +51,8 @@ I am a student in [@codingburgas](https://codingburgas.bg)🎓, who is currently
 <details style = "display: inline;">
   <summary><b>📚 Badges</b></summary>
 
-<a href ="https://www.credly.com/earner/earned/badge/5a00296a-24c4-4be2-be73-9e63f27dffed"><img align="left" alt="HTML5&CSS3" width="100px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
-<a href ="https://www.credly.com/earner/earned/badge/a2cddc43-0ca1-4f90-8443-07b09ee2415e"><img align="left" alt="Word Office 2016" width="100px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
+<a href ="https://www.credly.com/earner/earned/badge/5a00296a-24c4-4be2-be73-9e63f27dffed"><img align="left" alt="HTML5&CSS3" width="150px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
+<a href ="https://www.credly.com/earner/earned/badge/a2cddc43-0ca1-4f90-8443-07b09ee2415e"><img align="left" alt="Word Office 2016" width="150px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
 </details>  
 
 <br>
