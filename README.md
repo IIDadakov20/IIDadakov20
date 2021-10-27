@@ -14,8 +14,8 @@ I am a student in [@codingburgas](https://codingburgas.bg)🎓, who is currently
 <hr>
 
 ### My interests:
-- 🏐 Volleyball
-- 💻 Testing new things in C++, HTML5 and CSS3
+- 🏐 I love playing volleyball.
+- 💻 I love exploring new technologies.
 
 <hr>
 
