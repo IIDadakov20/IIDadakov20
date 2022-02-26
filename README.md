@@ -4,6 +4,8 @@ I am a student in [@codingburgas](https://codingburgas.bg)🎓, who is currently
 
 <hr>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IIDadakov20&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
 <img align="right" height="250" width="400" alt="" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
 
 ### Talking about Personal Stuffs:
